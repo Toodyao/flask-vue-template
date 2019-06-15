@@ -1,4 +1,5 @@
 .idea/
+migrations/
 app.db
 
 # Created by .ignore support plugin (hsz.mobi)
